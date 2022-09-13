@@ -12,4 +12,5 @@
 <hr>
   
 
-![Hermawan Ali M](https://github-readme-stats.vercel.app/api?username=hermawanalimangambali&show_icons=true&theme=radical)
+<!--![Hermawan Ali M](https://github-readme-stats.vercel.app/api?username=hermawanalimangambali&show_icons=true&theme=radical)
+-->
